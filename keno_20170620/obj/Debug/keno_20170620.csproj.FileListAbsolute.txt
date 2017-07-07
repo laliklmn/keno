@@ -1,0 +1,6 @@
+c:\users\lalee\documents\visual studio 2017\Projects\keno_20170620\keno_20170620\bin\Debug\keno_20170620.exe.config
+c:\users\lalee\documents\visual studio 2017\Projects\keno_20170620\keno_20170620\bin\Debug\keno_20170620.exe
+c:\users\lalee\documents\visual studio 2017\Projects\keno_20170620\keno_20170620\bin\Debug\keno_20170620.pdb
+c:\users\lalee\documents\visual studio 2017\Projects\keno_20170620\keno_20170620\obj\Debug\keno_20170620.csprojResolveAssemblyReference.cache
+c:\users\lalee\documents\visual studio 2017\Projects\keno_20170620\keno_20170620\obj\Debug\keno_20170620.exe
+c:\users\lalee\documents\visual studio 2017\Projects\keno_20170620\keno_20170620\obj\Debug\keno_20170620.pdb
